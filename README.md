@@ -2,6 +2,12 @@
 
 https://www.linkedin.com/in/jr-silvio-souza/
 
+
+<!--  Tabela com linguagens mais usadas no GitHub
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SJblu)](https://github.com/SJblu/SJblu)
+-->
+
+
 <!--
 **SJblu/SJblu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
