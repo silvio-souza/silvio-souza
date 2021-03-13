@@ -1,6 +1,17 @@
-### Hi there 👋
+## Silvio Souza
 
-https://www.linkedin.com/in/jr-silvio-souza/
+> ### Hi there 👋 Nice to have you here
+> [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jr-silvio-souza/)](https://www.linkedin.com/in/jr-silvio.souza/)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/SJblu)](https://github.com/SJblu)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jr.silvio.souza@gmail.com)](mailto:jr.silvio.souza@gmail.com)
+[![Codewars Badge](https://www.codewars.com/users/nymalone/badges/micro)](https://www.codewars.com/users/SJblu/badges/micro)
+
+- 👨🏻‍🎓 Technologist in System Analysis 
+- 👨‍💻 Full Stack Web Dev student at *Digital House Brasil* 
+- 🚀 Addicted to learning 
+- 👨‍👦 Passionate Dad 
+
+
 
 
 <!--  Tabela com linguagens mais usadas no GitHub
