@@ -9,7 +9,7 @@
 - 👨🏻‍🎓 Technologist in System Analysis 
 - 👨‍💻 Full Stack Web Dev student at *Digital House Brasil* 
 - 🚀 Addicted to learning 
-- 👨‍👦 Passionate Dad 
+- 👨‍👦 Loving Dad 
 
 
 
