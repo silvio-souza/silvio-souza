@@ -2,7 +2,7 @@
 
 > ### Hi there 👋 Nice to have you here
 > [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jr-silvio-souza/)](https://www.linkedin.com/in/jr-silvio-souza/)
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/SJblu)](https://github.com/SJblu)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/silvio-souza)](https://github.com/silvio-souza)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jr.silvio.souza@gmail.com)](mailto:jr.silvio.souza@gmail.com)
 [![Codewars Badge](https://www.codewars.com/users/SJblu/badges/micro)](https://www.codewars.com/users/SJblu)
 
