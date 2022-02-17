@@ -7,7 +7,7 @@
 [![Codewars Badge](https://www.codewars.com/users/SJblu/badges/micro)](https://www.codewars.com/users/SJblu)
 
 - 👨🏻‍🎓 Technologist in System Analysis 
-- 👨‍💻 Full Stack Web Dev student at *Digital House Brasil* 
+- 👨‍💻 Full Stack Web Dev student
 - 🚀 Addicted to learning 
 - 👨‍👦 Loving Dad 
 
