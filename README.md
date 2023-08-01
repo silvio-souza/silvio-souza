@@ -8,7 +8,7 @@
 
 - 👨🏻‍🎓 Technologist in System Analysis 
 - 👨‍💻 Full Stack Web Dev student
-- 🚀 Addicted to learning 
+- 🚀 Addicted to learning
 - 👨‍👦 Loving Dad 
 
 
