@@ -9,7 +9,7 @@
 - 👨🏻‍🎓 Technologist in System Analysis 
 - 👨‍💻 Full Stack Web Dev student
 - 🚀 Addicted to learning
-- 👨‍👦 Loving Dad 
+- 👨‍👦 Loving Dad  
 
 
 <!--  Tabela com linguagens mais usadas no GitHub
