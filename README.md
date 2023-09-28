@@ -6,7 +6,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jr.silvio.souza@gmail.com)](mailto:jr.silvio.souza@gmail.com)
 [![Codewars Badge](https://www.codewars.com/users/SJblu/badges/micro)](https://www.codewars.com/users/SJblu)
 
-- 👨🏻‍🎓 Technologist in System Analysis 
+- 👨🏻‍🎓 Technologist in System Analysis  
 - 👨‍💻 Full Stack Web Dev student
 - 🚀 Addicted to learning
 - 👨‍👦 Loving Dad  
